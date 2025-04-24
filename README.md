@@ -25,24 +25,22 @@
 - 💼 KB데이타시스템 백엔드 개발자
 - 🛠 사용자 불편 개선 및 자동화에 강점
 - 🔄 매일 알고리즘 1문제 푸는 1Day 1Problem 활동 지속
-- 🌱 Java 17, Spring Boot, Docker, CI/CD 등 AtoZ 학습 중
 
 ---
 
 ## 📁 주요 프로젝트
 
 ### worKB (KB금융 통합협업툴)
-> KB 내부 포탈/단말/메신저 연동, REST API 기반 인사정보 통합
->  
-기술: Java, Spring Boot, MyBatis, DB2
+> KB국민은행 포탈/단말/메신저 연동, REST API 기반 인사정보 통합
+기술: Java, n-kesa, IBatis, DB2, JavaScript, iDev
 
 ### 바로지원 서비스
-> 원격상담 채널 구축, 대면 상담의 디지털 전환  
-기술: Java, JSP, Oracle
+> 서비스 이용 통계 구축
+기술: Java, n-kesa, IBatis, DB2, JavaScript, iDev
 
 ### Alice in SQLand
-> SQL 학습용 게임, WebSQL 기반 쿼리 처리 기능 개발  
-기술: JavaScript, SQLite(WebSQL), HTML/CSS
+> SQL 학습용 게임, WebSQL 기반 쿼리 처리 기능 및 서버 개발
+기술: Python, Django, JavaScript, WebSQL, HTML/CSS
 
 ---
 
