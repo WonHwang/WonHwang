@@ -1,7 +1,7 @@
 <h1 align="center">Jiwon Hwang</h1>
 
 ---
-[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=crisjan)](https://solved.ac/crisjan/)
+![WonHwang's GitHub stats](https://github-readme-stats.vercel.app/api?username=WonHwang&show_icons=true&theme=dark)[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=crisjan)](https://solved.ac/crisjan/)
 ---
 ## 🔧 Tech Stack
 
