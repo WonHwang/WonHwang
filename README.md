@@ -1,7 +1,4 @@
-<h1 align="center">Hi 👋, I'm Jiwon Hwang</h1>
-<p align="center">
-  백엔드 개발자 | 사용자 중심 개선 | 꾸준한 성장 🧗‍♂️
-</p>
+<h1 align="center">Jiwon Hwang</h1>
 
 ---
 
